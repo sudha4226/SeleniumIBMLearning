@@ -31,7 +31,7 @@ public class HRMLogin {
 		
 		//driver.perform(null);
 		
-		Thread.sleep(5000);   //hard-coded delay
+		Thread.sleep(6000);   //hard-coded delay
 		
 		driver.close();
 		
