@@ -1,4 +1,6 @@
-package datadrivenTest;
+package dataDrivenTest;
+
+
 import org.apache.log4j.Logger;
 import org.apache.log4j.PropertyConfigurator;
 import org.openqa.selenium.WebDriver;
@@ -10,42 +12,45 @@ import io.github.bonigarcia.wdm.WebDriverManager;
 import utility.ConfigRead;
 
 public class BaseTest {
-    
-    
-    public WebDriver driver;
-    ConfigRead conf;
-    Logger log;
-    
-    @BeforeTest
-    public void launchApp() throws Exception {
-    	
-    	log = Logger.getLogger("NOP Comm Login Module");
-        PropertyConfigurator.configure(".\\testData\\log4j.properties");
-        
-        
-        
+	
+	
+	public WebDriver driver;
+	ConfigRead conf;
+	Logger log;
+	
+	@BeforeTest
+	public void launchApp() throws Exception {
 
-        //Create an Object Config
-        
-        conf = new ConfigRead();
-        
-        log.info("launching chrome browser.");
-        WebDriverManager.chromedriver().setup();
-        driver = new ChromeDriver();
-        driver.manage().window().maximize();
-        log.info("launching application: " + conf.getNOPComm());
-        driver.get(conf.getNOPComm());
+		
+		//log file
+		
+		log = Logger.getLogger("NOP Comm Login Module");
+		PropertyConfigurator.configure(".\\testData\\log4j.properties");
+		
+		
+		
 
-    }
+		//Create an Object Config
+		
+		conf = new ConfigRead();
+		
+		log.info("launching chrome browser.");
+		WebDriverManager.chromedriver().setup();
+		driver = new ChromeDriver();
+		driver.manage().window().maximize();
+		log.info("launching application: " + conf.getNOPComm());
+		driver.get(conf.getNOPComm());
 
-    @AfterTest
-    public void closingApp() throws Exception {
-    	Thread.sleep(5000);
-        driver.close();
-        log.info("chrome browser closed.");
-        
-    }
-    
+	}
+
+	@AfterTest
+	public void closingApp() throws Exception {
+
+		Thread.sleep(5000);
+		driver.close();
+		log.info("chrome browser closed.");
+		
+	}
+	
 
 }
-    

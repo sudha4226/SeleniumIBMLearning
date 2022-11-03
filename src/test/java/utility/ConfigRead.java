@@ -23,26 +23,25 @@ public class ConfigRead {
 		return prop.getProperty("appURL_Amazon");
 
 	}
+
 	public String getNOPComm() {
 
-        return prop.getProperty("app_url_QA");
+		return prop.getProperty("app_url_QA");
 
-    }
-    
-    public String getAdminUser() {
+	}
+	
+	public String getAdminUser() {
 
-        return prop.getProperty("adminUserName");
+		return prop.getProperty("adminUserName");
 
-    }
-    
-    public String getAdminPass() {
+	}
+	
+	public String getAdminPass() {
 
-        return prop.getProperty("adminPassword");
+		return prop.getProperty("adminPassword");
 
-    }
-    
-   
-
+	}
+	
 	public String getBrowser() {
 
 		return prop.getProperty("browser");

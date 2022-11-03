@@ -1,54 +1,120 @@
-2022-10-27 02:51:31,103 - NOP Comm Login Module -INFO - launching chrome browser.
-2022-10-27 02:51:35,180 - NOP Comm Login Module -INFO - launching application: https://admin-demo.nopcommerce.com/login?ReturnUrl=%2Fadmin%2F
-2022-10-27 02:51:36,275 - NOP Comm Login Module -INFO - clear userName field.
-2022-10-27 02:51:36,381 - NOP Comm Login Module -INFO - enter value into userName field: admin@yourstore.com
-2022-10-27 02:51:36,508 - NOP Comm Login Module -INFO - clear password field.
-2022-10-27 02:51:36,609 - NOP Comm Login Module -INFO - enter value into password field: admin
-2022-10-27 02:51:36,699 - NOP Comm Login Module -INFO - click on checkbox RememberMe.
-2022-10-27 02:51:36,816 - NOP Comm Login Module -INFO - click on login Button
-2022-10-27 02:51:39,920 - NOP Comm Login Module -INFO - Validation of Application title
-2022-10-27 02:51:39,968 - NOP Comm Login Module -INFO - Actual Title: Dashboard / nopCommerce administration
-2022-10-27 02:51:39,995 - NOP Comm Login Module -INFO - Click on Logout button
-2022-10-27 02:51:46,509 - NOP Comm Login Module -INFO - chrome browser closed.
-2022-10-27 02:57:27,995 - NOP Comm Login Module -INFO - launching chrome browser.
-2022-10-27 02:57:31,264 - NOP Comm Login Module -INFO - launching application: https://admin-demo.nopcommerce.com/login?ReturnUrl=%2Fadmin%2F
-2022-10-27 02:57:32,380 - NOP Comm Login Module -INFO - clear userName field.
-2022-10-27 02:57:32,477 - NOP Comm Login Module -INFO - enter value into userName field: admin@yourstore.com
-2022-10-27 02:57:32,613 - NOP Comm Login Module -INFO - clear password field.
-2022-10-27 02:57:32,689 - NOP Comm Login Module -INFO - enter value into password field: admin
-2022-10-27 02:57:32,775 - NOP Comm Login Module -INFO - click on checkbox RememberMe.
-2022-10-27 02:57:32,874 - NOP Comm Login Module -INFO - click on login Button
-2022-10-27 02:57:35,931 - NOP Comm Login Module -INFO - Validation of Application title
-2022-10-27 02:57:35,942 - NOP Comm Login Module -INFO - Actual Title: Dashboard / nopCommerce administration
-2022-10-27 02:57:35,951 - NOP Comm Login Module -INFO - Click on Logout button
-2022-10-27 02:57:43,270 - NOP Comm Login Module -INFO - chrome browser closed.
-2022-10-28 02:54:13,484 - NOP Comm Login Module -INFO - launching chrome browser.
-2022-10-28 02:54:17,658 - NOP Comm Login Module -INFO - launching application: https://admin-demo.nopcommerce.com/login?ReturnUrl=%2Fadmin%2F
-2022-10-28 02:54:20,817 - NOP Comm Login Module -INFO - clear userName field.
-2022-10-28 02:54:20,901 - NOP Comm Login Module -INFO - enter value into userName field: prem@yahoomail.com
-2022-10-28 02:54:23,019 - NOP Comm Login Module -INFO - clear password field.
-2022-10-28 02:54:23,115 - NOP Comm Login Module -INFO - enter value into password field: demo@123
-2022-10-28 02:54:25,207 - NOP Comm Login Module -INFO - click on checkbox RememberMe.
-2022-10-28 02:54:27,285 - NOP Comm Login Module -INFO - click on login Button
-2022-10-28 02:54:30,301 - NOP Comm Login Module -INFO - Validation of error message for invalid user details
-2022-10-28 02:54:32,331 - NOP Comm Login Module -INFO - clear userName field.
-2022-10-28 02:54:32,403 - NOP Comm Login Module -INFO - enter value into userName field: Rupam@google.com
-2022-10-28 02:54:34,519 - NOP Comm Login Module -INFO - clear password field.
-2022-10-28 02:54:34,601 - NOP Comm Login Module -INFO - enter value into password field: demo@123
-2022-10-28 02:54:36,709 - NOP Comm Login Module -INFO - click on checkbox RememberMe.
-2022-10-28 02:54:38,801 - NOP Comm Login Module -INFO - click on login Button
-2022-10-28 02:54:41,222 - NOP Comm Login Module -INFO - Validation of error message for invalid user details
-2022-10-28 02:54:43,257 - NOP Comm Login Module -INFO - clear userName field.
-2022-10-28 02:54:43,329 - NOP Comm Login Module -INFO - enter value into userName field: shivani@gmail.com
-2022-10-28 02:54:45,441 - NOP Comm Login Module -INFO - clear password field.
-2022-10-28 02:54:45,521 - NOP Comm Login Module -INFO - enter value into password field: password@123
-2022-10-28 02:54:47,645 - NOP Comm Login Module -INFO - click on checkbox RememberMe.
-2022-10-28 02:54:49,738 - NOP Comm Login Module -INFO - click on login Button
-2022-10-28 02:54:52,176 - NOP Comm Login Module -INFO - Validation of error message for invalid user details
-2022-10-28 02:54:57,430 - NOP Comm Login Module -INFO - chrome browser closed.
-2022-10-31 03:03:42,116 - NOP Comm Login Module -INFO - launching chrome browser.
-2022-10-31 03:03:45,707 - NOP Comm Login Module -INFO - launching application: https://admin-demo.nopcommerce.com/login?ReturnUrl=%2Fadmin%2F
-2022-10-31 03:03:55,395 - NOP Comm Login Module -INFO - chrome browser closed.
-2022-10-31 03:41:06,718 - NOP Comm Login Module -INFO - launching chrome browser.
-2022-10-31 03:41:09,511 - NOP Comm Login Module -INFO - launching application: https://admin-demo.nopcommerce.com/login?ReturnUrl=%2Fadmin%2F
-2022-10-31 03:41:23,433 - NOP Comm Login Module -INFO - chrome browser closed.
+2022-10-27 14:49:32,095 - NOP Comm Login Module -INFO - launching chrome browser.
+2022-10-27 14:49:35,456 - NOP Comm Login Module -INFO - launching application: https://admin-demo.nopcommerce.com/login?ReturnUrl=%2Fadmin%2F
+2022-10-27 14:49:36,631 - NOP Comm Login Module -INFO - clear userName field.
+2022-10-27 14:49:36,708 - NOP Comm Login Module -INFO - enter value into userName field: admin@yourstore.com
+2022-10-27 14:49:36,807 - NOP Comm Login Module -INFO - clear password field.
+2022-10-27 14:49:36,880 - NOP Comm Login Module -INFO - enter value into password field: admin
+2022-10-27 14:49:36,948 - NOP Comm Login Module -INFO - click on checkbox RememberMe.
+2022-10-27 14:49:37,016 - NOP Comm Login Module -INFO - click on login Button
+2022-10-27 14:49:41,049 - NOP Comm Login Module -INFO - Validation of Application title
+2022-10-27 14:49:41,062 - NOP Comm Login Module -INFO - Actual Title: Dashboard / nopCommerce administration
+2022-10-27 14:49:41,080 - NOP Comm Login Module -INFO - Click on Logout button
+2022-10-27 14:49:48,681 - NOP Comm Login Module -INFO - chrome browser closed.
+2022-10-27 14:59:53,707 - NOP Comm Login Module -INFO - launching chrome browser.
+2022-10-27 14:59:56,395 - NOP Comm Login Module -INFO - launching application: https://admin-demo.nopcommerce.com/login?ReturnUrl=%2Fadmin%2F
+2022-10-27 14:59:58,437 - NOP Comm Login Module -INFO - clear userName field.
+2022-10-27 14:59:58,502 - NOP Comm Login Module -INFO - enter value into userName field: admin@yourstore.com
+2022-10-27 14:59:58,611 - NOP Comm Login Module -INFO - clear password field.
+2022-10-27 14:59:58,677 - NOP Comm Login Module -INFO - enter value into password field: admin
+2022-10-27 14:59:58,747 - NOP Comm Login Module -INFO - click on checkbox RememberMe.
+2022-10-27 14:59:58,813 - NOP Comm Login Module -INFO - click on login Button
+2022-10-27 15:00:04,977 - NOP Comm Login Module -INFO - Validation of Application title
+2022-10-27 15:00:04,986 - NOP Comm Login Module -INFO - Actual Title: Dashboard / nopCommerce administration
+2022-10-27 15:00:05,001 - NOP Comm Login Module -INFO - Click on Logout button
+2022-10-27 15:00:12,125 - NOP Comm Login Module -INFO - chrome browser closed.
+2022-10-27 15:42:50,347 - NOP Comm Login Module -INFO - launching chrome browser.
+2022-10-27 15:42:54,162 - NOP Comm Login Module -INFO - launching application: https://admin-demo.nopcommerce.com/login?ReturnUrl=%2Fadmin%2F
+2022-10-27 15:42:55,585 - NOP Comm Login Module -INFO - clear userName field.
+2022-10-27 15:42:55,675 - NOP Comm Login Module -INFO - enter value into userName field: admin@yourstore.com
+2022-10-27 15:42:55,789 - NOP Comm Login Module -INFO - clear password field.
+2022-10-27 15:42:55,866 - NOP Comm Login Module -INFO - enter value into password field: admin
+2022-10-27 15:42:55,942 - NOP Comm Login Module -INFO - click on checkbox RememberMe.
+2022-10-27 15:42:56,019 - NOP Comm Login Module -INFO - click on login Button
+2022-10-27 15:43:00,789 - NOP Comm Login Module -INFO - Validation of Application title
+2022-10-27 15:43:00,802 - NOP Comm Login Module -INFO - Actual Title: Dashboard / nopCommerce administration
+2022-10-27 15:43:00,814 - NOP Comm Login Module -INFO - Click on Logout button
+2022-10-27 15:43:07,830 - NOP Comm Login Module -INFO - chrome browser closed.
+2022-10-27 15:44:48,682 - NOP Comm Login Module -INFO - launching chrome browser.
+2022-10-27 15:44:51,599 - NOP Comm Login Module -INFO - launching application: https://admin-demo.nopcommerce.com/login?ReturnUrl=%2Fadmin%2F
+2022-10-27 15:44:53,687 - NOP Comm Login Module -INFO - clear userName field.
+2022-10-27 15:44:53,771 - NOP Comm Login Module -INFO - enter value into userName field: admin@yourstore.com
+2022-10-27 15:44:53,877 - NOP Comm Login Module -INFO - clear password field.
+2022-10-27 15:44:53,950 - NOP Comm Login Module -INFO - enter value into password field: admin
+2022-10-27 15:44:54,025 - NOP Comm Login Module -INFO - click on checkbox RememberMe.
+2022-10-27 15:44:54,091 - NOP Comm Login Module -INFO - click on login Button
+2022-10-27 15:45:01,347 - NOP Comm Login Module -INFO - Validation of Application title
+2022-10-27 15:45:01,359 - NOP Comm Login Module -INFO - Actual Title: Dashboard / nopCommerce administration
+2022-10-27 15:45:01,371 - NOP Comm Login Module -INFO - Click on Logout button
+2022-10-27 15:45:24,523 - NOP Comm Login Module -INFO - chrome browser closed.
+2022-10-27 15:47:00,160 - NOP Comm Login Module -INFO - launching chrome browser.
+2022-10-27 15:47:02,855 - NOP Comm Login Module -INFO - launching application: https://admin-demo.nopcommerce.com/login?ReturnUrl=%2Fadmin%2F
+2022-10-27 15:47:04,713 - NOP Comm Login Module -INFO - clear userName field.
+2022-10-27 15:47:04,820 - NOP Comm Login Module -INFO - enter value into userName field: admin@yourstore.com
+2022-10-27 15:47:04,938 - NOP Comm Login Module -INFO - clear password field.
+2022-10-27 15:47:05,020 - NOP Comm Login Module -INFO - enter value into password field: admin
+2022-10-27 15:47:05,101 - NOP Comm Login Module -INFO - click on checkbox RememberMe.
+2022-10-27 15:47:05,181 - NOP Comm Login Module -INFO - click on login Button
+2022-10-27 15:47:10,249 - NOP Comm Login Module -INFO - Validation of Application title
+2022-10-27 15:47:10,259 - NOP Comm Login Module -INFO - Actual Title: Dashboard / nopCommerce administration
+2022-10-27 15:47:10,269 - NOP Comm Login Module -INFO - Click on Logout button
+2022-10-27 15:47:17,335 - NOP Comm Login Module -INFO - chrome browser closed.
+2022-10-27 15:55:41,285 - NOP Comm Login Module -INFO - launching chrome browser.
+2022-10-27 15:55:45,015 - NOP Comm Login Module -INFO - launching application: https://admin-demo.nopcommerce.com/login?ReturnUrl=%2Fadmin%2F
+2022-10-27 15:55:47,130 - NOP Comm Login Module -INFO - clear userName field.
+2022-10-27 15:55:47,230 - NOP Comm Login Module -INFO - enter value into userName field: admin@yourstore.com
+2022-10-27 15:55:47,349 - NOP Comm Login Module -INFO - clear password field.
+2022-10-27 15:55:47,449 - NOP Comm Login Module -INFO - enter value into password field: admin
+2022-10-27 15:55:47,538 - NOP Comm Login Module -INFO - click on checkbox RememberMe.
+2022-10-27 15:55:47,634 - NOP Comm Login Module -INFO - click on login Button
+2022-10-27 15:55:56,220 - NOP Comm Login Module -INFO - Validation of Application title
+2022-10-27 15:55:56,236 - NOP Comm Login Module -INFO - Actual Title: Dashboard / nopCommerce administration
+2022-10-27 15:55:56,250 - NOP Comm Login Module -INFO - Click on Logout button
+2022-10-27 15:56:03,905 - NOP Comm Login Module -INFO - chrome browser closed.
+2022-10-28 15:08:06,106 - NOP Comm Login Module -INFO - launching chrome browser.
+2022-10-28 15:08:10,070 - NOP Comm Login Module -INFO - launching application: https://admin-demo.nopcommerce.com/login?ReturnUrl=%2Fadmin%2F
+2022-10-28 15:08:13,524 - NOP Comm Login Module -INFO - clear userName field.
+2022-10-28 15:08:13,622 - NOP Comm Login Module -INFO - enter value into userName field: prem@yahoomail.com
+2022-10-28 15:08:15,752 - NOP Comm Login Module -INFO - clear password field.
+2022-10-28 15:08:15,840 - NOP Comm Login Module -INFO - enter value into password field: demo@123
+2022-10-28 15:08:17,928 - NOP Comm Login Module -INFO - click on checkbox RememberMe.
+2022-10-28 15:08:20,023 - NOP Comm Login Module -INFO - click on login Button
+2022-10-28 15:08:23,260 - NOP Comm Login Module -INFO - Validation of error message for invalid user details
+2022-10-28 15:08:25,302 - NOP Comm Login Module -INFO - clear userName field.
+2022-10-28 15:08:25,463 - NOP Comm Login Module -INFO - enter value into userName field: Rupam@google.com
+2022-10-28 15:08:27,659 - NOP Comm Login Module -INFO - clear password field.
+2022-10-28 15:08:27,750 - NOP Comm Login Module -INFO - enter value into password field: demo@123
+2022-10-28 15:08:29,851 - NOP Comm Login Module -INFO - click on checkbox RememberMe.
+2022-10-28 15:08:31,953 - NOP Comm Login Module -INFO - click on login Button
+2022-10-28 15:08:35,146 - NOP Comm Login Module -INFO - Validation of error message for invalid user details
+2022-10-28 15:08:37,180 - NOP Comm Login Module -INFO - clear userName field.
+2022-10-28 15:08:37,261 - NOP Comm Login Module -INFO - enter value into userName field: shivani@gmail.com
+2022-10-28 15:08:39,372 - NOP Comm Login Module -INFO - clear password field.
+2022-10-28 15:08:39,446 - NOP Comm Login Module -INFO - enter value into password field: password@123
+2022-10-28 15:08:41,544 - NOP Comm Login Module -INFO - click on checkbox RememberMe.
+2022-10-28 15:08:43,656 - NOP Comm Login Module -INFO - click on login Button
+2022-10-28 15:08:46,840 - NOP Comm Login Module -INFO - Validation of error message for invalid user details
+2022-10-28 15:09:08,146 - NOP Comm Login Module -INFO - chrome browser closed.
+2022-10-28 15:12:41,348 - NOP Comm Login Module -INFO - launching chrome browser.
+2022-10-28 15:12:44,178 - NOP Comm Login Module -INFO - launching application: https://admin-demo.nopcommerce.com/login?ReturnUrl=%2Fadmin%2F
+2022-10-28 15:12:47,671 - NOP Comm Login Module -INFO - clear userName field.
+2022-10-28 15:12:47,749 - NOP Comm Login Module -INFO - enter value into userName field: prem@yahoomail.com
+2022-10-28 15:12:49,864 - NOP Comm Login Module -INFO - clear password field.
+2022-10-28 15:12:49,947 - NOP Comm Login Module -INFO - enter value into password field: demo@123
+2022-10-28 15:12:52,033 - NOP Comm Login Module -INFO - click on checkbox RememberMe.
+2022-10-28 15:12:54,104 - NOP Comm Login Module -INFO - click on login Button
+2022-10-28 15:12:56,592 - NOP Comm Login Module -INFO - Validation of error message for invalid user details
+2022-10-28 15:12:58,631 - NOP Comm Login Module -INFO - clear userName field.
+2022-10-28 15:12:58,691 - NOP Comm Login Module -INFO - enter value into userName field: Rupam@google.com
+2022-10-28 15:13:00,780 - NOP Comm Login Module -INFO - clear password field.
+2022-10-28 15:13:00,946 - NOP Comm Login Module -INFO - enter value into password field: demo@123
+2022-10-28 15:13:03,042 - NOP Comm Login Module -INFO - click on checkbox RememberMe.
+2022-10-28 15:13:05,111 - NOP Comm Login Module -INFO - click on login Button
+2022-10-28 15:13:07,552 - NOP Comm Login Module -INFO - Validation of error message for invalid user details
+2022-10-28 15:13:09,566 - NOP Comm Login Module -INFO - clear userName field.
+2022-10-28 15:13:09,635 - NOP Comm Login Module -INFO - enter value into userName field: shivani@gmail.com
+2022-10-28 15:13:11,727 - NOP Comm Login Module -INFO - clear password field.
+2022-10-28 15:13:11,785 - NOP Comm Login Module -INFO - enter value into password field: password@123
+2022-10-28 15:13:13,866 - NOP Comm Login Module -INFO - click on checkbox RememberMe.
+2022-10-28 15:13:15,944 - NOP Comm Login Module -INFO - click on login Button
+2022-10-28 15:13:18,436 - NOP Comm Login Module -INFO - Validation of error message for invalid user details
+2022-10-28 15:13:39,724 - NOP Comm Login Module -INFO - chrome browser closed.
