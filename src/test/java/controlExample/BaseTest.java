@@ -29,7 +29,7 @@ public class BaseTest {
 	@After
 	public void closingApp() throws Exception {
 
-		Thread.sleep(5000);
+		Thread.sleep(6000);
 		driver.close();
 		
 		System.out.println("closing....");
